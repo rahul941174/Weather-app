@@ -2,7 +2,7 @@
 
 A simple and interactive Weather Application built with **React.js**, which fetches real-time weather data using the **OpenWeatherMap API**.
 
-https://vercel.com/rahuls-projects-0744d40a/weather-app
+https://weather-app-six-fawn-wdp0des71q.vercel.app/
 
 <img width="1360" height="600" alt="wea1" src="https://github.com/user-attachments/assets/23c3f5c0-a572-48de-b4e6-6902bff7f126" />
 <img width="1366" height="604" alt="wea2" src="https://github.com/user-attachments/assets/a4944539-f551-4028-aaa4-f7221915ee8f" />
